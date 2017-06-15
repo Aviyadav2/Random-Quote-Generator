@@ -1,0 +1,21 @@
+
+body{
+  font-family: lobster;
+  backgroung-image = no-repeat center center fixed;
+  background-size: cover;
+  
+}
+.block{
+  background-color: #F0F8F1;
+  color: white;
+  padding: 50px;
+ padding-top = 25%;
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 15px;
+}
+.spacer{
+  
+  padding = 5%;
+}
